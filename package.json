@@ -1,0 +1,16 @@
+{
+  "name": "pdfreader",
+  "version": "1.0.0",
+  "description": "PDF pàrser for student information",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "jscs": "^3.0.7",
+    "pdf2json": "^1.1.7",
+    "xlsx": "^0.10.5"
+  }
+}
