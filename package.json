@@ -11,6 +11,6 @@
   "dependencies": {
     "jscs": "^3.0.7",
     "pdf2json": "^1.1.7",
-    "xlsx": "^0.10.5"
+    "xlsx": "^0.17.0"
   }
 }
